@@ -1,5 +1,7 @@
 # tic-tac-toe
 A simple graphical TicTacToe game made with SDL2 and C++
+<br> <br>
+![tictactoe](https://i.ibb.co.com/82v9NQb/ux-FHu9g-Gf-QMs.png)
 
 # instructions
 You can simply hover the mouse over the grid cells and left click to input
