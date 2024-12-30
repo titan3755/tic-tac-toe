@@ -4,7 +4,7 @@ A simple graphical TicTacToe game made with SDL2 and C++
 ![tictactoe](https://i.ibb.co.com/82v9NQb/ux-FHu9g-Gf-QMs.png)
 
 # instructions
-You can simply hover the mouse over the grid cells and left click to input
+You can simply hover the mouse over the grid cells and left click to input. Other instructions will be displayed on screen.
 
 # known bugs and future feature additions
 --> feature: add a delay to computer response <br>
